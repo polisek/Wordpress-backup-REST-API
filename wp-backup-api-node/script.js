@@ -4,10 +4,10 @@ const path = require('path');
 
 const projects = [
     {
-        name: 'tech-world.cz',
-        url: 'https://tech-world.cz/wp-json/backup/v1/download',
-        apiKey: 'xxx-114-244-244',
-        user: 'techAdmin',
+        name: 'example.com',
+        url: 'https://example.com/wp-json/backup/v1/download',
+        apiKey: 'your-own-code-same-as-admin',
+        user: 'userName',
     },
 ];
 
